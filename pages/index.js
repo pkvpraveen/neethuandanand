@@ -15,7 +15,7 @@ export default function Home() {
 				<meta name="theme-color" content="#111827" />
 				<meta property="og:title" content="Neethu & Anand" />
 				<meta property="og:description" content="Wedding website of Neethu and Anand" />
-				<meta property="og:image" content="/images/anandandneethu.jpeg" />
+				<meta property="og:image" content="https://www.neethuandanand.info/api/og" />
 				<meta name="description" content="Wedding website of Neethu and Anand" />
       </Head>
 
