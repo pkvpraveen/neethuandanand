@@ -43,6 +43,11 @@ export default function Home() {
 						<p>Rakthakanda Swamy Temple, Omalloor</p>
 						<a href="https://goo.gl/maps/Gj5VownHwLPmNhds8">see on map</a>
 					</div>
+					<div className={styles.card}>
+						<h2>Anand's Home</h2>
+						<p>Pranavam House, Pala</p>
+						<a href="https://goo.gl/maps/m5YDn6VTkgapLdAY8">see on map</a>
+					</div>
 				</section>
 			</main>
 
